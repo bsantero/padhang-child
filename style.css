@@ -31,8 +31,8 @@ Padhang is based on Underscores http://underscores.me/, (C) 2012-2014 Automattic
 
 .site-branding h1,
 .site-branding h2 {
-	background: black;
-	opacity: .8;
+	display: table;
+	background: rgba(0,0,0,.8);
 }
 
 .site-branding .site-title,
@@ -46,5 +46,3 @@ Padhang is based on Underscores http://underscores.me/, (C) 2012-2014 Automattic
 		display: none;
 	}
 }
-
-/*test for github*/
