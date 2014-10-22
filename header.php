@@ -30,12 +30,13 @@
 			<?php wp_nav_menu( array( 'theme_location' => 'primary' ) ); ?>
 		</nav><!-- #site-navigation -->
 
+		<div class="banner">
+			<img class="bannerimage" src="<?php echo get_bloginfo('stylesheet_directory');?>/_images/header.jpg" alt="Banner Image">
+		</div>
+
 		<div class="site-branding">
-			
-			<a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home">
 				<h1 class="site-title"><?php bloginfo( 'name' ); ?></h1>
 				<h2 class="site-description"><?php bloginfo( 'description' ); ?></h2>
-			</a>
 		</div>
 	</header><!-- #masthead -->
 
