@@ -20,24 +20,24 @@ get_header(); ?>
 			<div class="Table navisquares">
 			    <div class="Row">
 			        <div class="Cell">
-			            <a href=""><span class="nav-square genericon genericon-user"></span></a>
+			            <a href="who"><span class="nav-square genericon genericon-user"></span></a>
 			        </div>
 			        <div class="Cell">
-			            <a href=""><span class="nav-square genericon genericon-audio"></span></a>
+			            <a href="media"><span class="nav-square genericon genericon-audio"></span></a>
 			        </div>
 			        <div class="Cell">
-			            <a href=""><span class="nav-square genericon genericon-comment"></span></a>
+			            <a href="contact"><span class="nav-square genericon genericon-comment"></span></a>
 			        </div>
 			    </div>
 			    <div class="Row">
 			        <div class="Cell">
-			            <a href="" class="nav-square-caption">About Brian</a>
+			            <a href="who" class="nav-square-caption">About Brian</a>
 			        </div>
 			        <div class="Cell">
-			            <a href="" class="nav-square-caption">Media</a>
+			            <a href="media" class="nav-square-caption">Media</a>
 			        </div>
 			        <div class="Cell">
-			            <a href="" class="nav-square-caption">Contact</a>
+			            <a href="contact" class="nav-square-caption">Contact</a>
 			        </div>
 			    </div>
 			</div>
